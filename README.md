@@ -32,7 +32,7 @@
     </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/789168526065008640?theme=dark&hideSpotify=true)](https://discord.com/users/789168526065008640)
+[![Discord Presence](https://lanyard.cnrad.dev/api/789168526065008640?idleMessage=**%E2%94%8F%E2%94%81%E2%94%81%E2%94%81%20%3Agear%3A%20Developer%20%7C%20LW%20Shop**%20**%3Aglobe_with_meridians%3A%20My%20Website%3A**%20https%3A%2F%2Finfo.lauwin.shop%20**%3Arocket%3A%20My%20Servers%3A**%20https%3A%2F%2Flauwin.shop%2F%20**%3Abooks%3A%20My%20Projects%3A**%20https%3A%2F%2Fgithub.com%2Flauwin-dev)](https://discord.com/users/789168526065008640)
 
 ![lau_win GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauwin-dev&show_icons=true&theme=tokyonight)
 [![Discord-Bot-Template](https://github-readme-stats.vercel.app/api/pin/?username=lauwin-dev&repo=Discord-Bot-Template&show_owner=true&theme=tokyonight)](https://github.com/lauwin-dev/Discord-Bot-Template)
